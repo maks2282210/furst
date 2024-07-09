@@ -1,0 +1,31 @@
+C:\Users\максим\Desktop\учёба\C#\лаба 18\2.1\bin\Debug\2.1.exe.config
+C:\Users\максим\Desktop\учёба\C#\лаба 18\2.1\bin\Debug\2.1.exe
+C:\Users\максим\Desktop\учёба\C#\лаба 18\2.1\bin\Debug\2.1.pdb
+C:\Users\максим\Desktop\учёба\C#\лаба 18\2.1\obj\Debug\2.1.csproj.AssemblyReference.cache
+C:\Users\максим\Desktop\учёба\C#\лаба 18\2.1\obj\Debug\2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\максим\Desktop\учёба\C#\лаба 18\2.1\obj\Debug\2.1.csproj.CoreCompileInputs.cache
+C:\Users\максим\Desktop\учёба\C#\лаба 18\2.1\obj\Debug\2.1.exe
+C:\Users\максим\Desktop\учёба\C#\лаба 18\2.1\obj\Debug\2.1.pdb
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\bin\Debug\2.1.exe.config
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\bin\Debug\2.1.exe
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\bin\Debug\2.1.pdb
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\obj\Debug\2.1.csproj.AssemblyReference.cache
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\obj\Debug\2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\obj\Debug\2.1.csproj.CoreCompileInputs.cache
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\obj\Debug\2.1.exe
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\obj\Debug\2.1.pdb
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\obj\Debug\_2._1.View.Form1.resources
+C:\Users\максим\Desktop\учёба\C#\лаба 19\2.1\obj\Debug\2.1.csproj.GenerateResource.cache
+C:\Users\максим\Desktop\Курсовая\bin\Debug\2.1.exe.config
+C:\Users\максим\Desktop\Курсовая\bin\Debug\2.1.exe
+C:\Users\максим\Desktop\Курсовая\bin\Debug\2.1.pdb
+C:\Users\максим\Desktop\Курсовая\obj\Debug\2.1.csproj.AssemblyReference.cache
+C:\Users\максим\Desktop\Курсовая\obj\Debug\2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\максим\Desktop\Курсовая\obj\Debug\_2._1.Properties.Resources.resources
+C:\Users\максим\Desktop\Курсовая\obj\Debug\_2._1.View.Form1.resources
+C:\Users\максим\Desktop\Курсовая\obj\Debug\2.1.csproj.GenerateResource.cache
+C:\Users\максим\Desktop\Курсовая\obj\Debug\2.1.csproj.CoreCompileInputs.cache
+C:\Users\максим\Desktop\Курсовая\obj\Debug\2.1.exe
+C:\Users\максим\Desktop\Курсовая\obj\Debug\2.1.pdb
+C:\Users\максим\Desktop\Курсовая\obj\Debug\_2._1.View.Form2.resources
+C:\Users\максим\Desktop\Курсовая\obj\Debug\_2._1.View.Form3.resources
